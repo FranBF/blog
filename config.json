@@ -1,0 +1,20 @@
+{
+    "dbconf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"blogdb",
+        "dbuser":"prouf1",
+        "dbpass":"linuxlinux",
+        "web":"http://localhost:3000/",
+        "root":"/"
+    },
+    "dbconf_pro":{
+        "driver":"mysql",
+        "dbhost":"BeFr.cesnuria.com",
+        "dbname":"BeFr_Prouf2",
+        "dbuser":"BeFr_prouf2",
+        "dbpass":"prouf2",
+        "web":"/m7/blog/",
+        "root":"/m7/blog/"
+    }
+}
